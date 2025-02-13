@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.2f6770aa.css",
-    "main.js": "/static/js/main.2c969443.js",
+    "main.js": "/static/js/main.acb89e4c.js",
     "static/media/feature_playstore.png": "/static/media/feature_playstore.06e1622896a7009a0c96.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
     "main.2f6770aa.css.map": "/static/css/main.2f6770aa.css.map",
-    "main.2c969443.js.map": "/static/js/main.2c969443.js.map"
+    "main.acb89e4c.js.map": "/static/js/main.acb89e4c.js.map"
   },
   "entrypoints": [
     "static/css/main.2f6770aa.css",
-    "static/js/main.2c969443.js"
+    "static/js/main.acb89e4c.js"
   ]
 }
