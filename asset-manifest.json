@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.d9cac52d.css",
-    "main.js": "/static/js/main.1799293c.js",
-    "static/media/feature_playstore.png": "/static/media/feature_playstore.06e1622896a7009a0c96.png",
-    "index.html": "/index.html",
-    "main.d9cac52d.css.map": "/static/css/main.d9cac52d.css.map",
-    "main.1799293c.js.map": "/static/js/main.1799293c.js.map"
+    "main.css": "/memory_dondee_landing/static/css/main.d9cac52d.css",
+    "main.js": "/memory_dondee_landing/static/js/main.18f884e4.js",
+    "static/media/feature_playstore.png": "/memory_dondee_landing/static/media/feature_playstore.06e1622896a7009a0c96.png",
+    "index.html": "/memory_dondee_landing/index.html",
+    "main.d9cac52d.css.map": "/memory_dondee_landing/static/css/main.d9cac52d.css.map",
+    "main.18f884e4.js.map": "/memory_dondee_landing/static/js/main.18f884e4.js.map"
   },
   "entrypoints": [
     "static/css/main.d9cac52d.css",
-    "static/js/main.1799293c.js"
+    "static/js/main.18f884e4.js"
   ]
 }
