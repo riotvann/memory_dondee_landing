@@ -8,7 +8,8 @@ function App() {
     <div className="App">
 
     
-    <BrowserRouter>
+    <BrowserRouter basename="/memory_dondee_landing">
+
       <Routes>
         <Route path="/" element={<img src={banner} className="Banner" alt="logo" />} />
         
